@@ -1,6 +1,6 @@
 # DeepOmix: A Multi-Omics Scalable and Interpretable Deep Learning Framework and Application in Cancer Survival Analysis
 
-  ![image](https://github.com/CancerProfiling/DeepOmix/blob/main/Figures/DeepOmix.png)
+  ![image](Figures/DeepOmix.png)
   
 ## Introduction of DeepOmix  
 Multi-omics data, such as gene expression, methylation, mutation and copy number variation, can elucidates valuable insights of molecular mechanisms for various diseases. However, due to their different modalities and high dimension, utilizing and integrating different types of omics data suffers from great challenges. There is an urgent need to develop a powerful method to improve survival prediction and detect functional gene modules from multi-omics data to overcome these difficulties. In this paper, we developed DeepOmix, a flexible, scalable and interpretable method for extracting relationships between the clinical outcomes and multi-omics data based on deep learning framework. DeepOmix can efficiently implement non-linear combination and incorporate prior biological information defined by users (such as signalling pathway and tissue-specific functional gene modules) 
