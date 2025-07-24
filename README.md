@@ -69,8 +69,9 @@ Change the input data accordingly with Visualization.py
 python Visualization.py 
 
 ```
+It can 
 
-    Extract pathway embeddings ; 
+    Extract pathway embeddings(change with your data); 
     
     Calculate ANOVA scores to measure survival relevance;
     
@@ -78,7 +79,7 @@ python Visualization.py
     
     Highlight top K pathways based on survival relevance;
     
-    Save results to appropriate files and directories;
+    Save results to appropriate files and directories.
     
 
 ## Contact
