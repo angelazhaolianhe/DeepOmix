@@ -63,12 +63,23 @@ The users need to change the paramters of *L2_Lambda,Initial_Learning_Rate,num_e
 
 3 Visualization
 
-Change the input accordingly with Visualization.py 
+Change the input data accordingly with Visualization.py 
+
+```
+python Visualization.py 
+
+```
+
     Extract pathway embeddings ; 
+    
     Calculate ANOVA scores to measure survival relevance;
+    
     Visualize pathway embeddings with UMAP;
+    
     Highlight top K pathways based on survival relevance;
+    
     Save results to appropriate files and directories;
+    
 
 ## Contact
 
